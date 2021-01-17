@@ -1,6 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"author": "Ryan Brown",
+	"author": "Ryan Brown rxb870",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
